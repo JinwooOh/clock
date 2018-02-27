@@ -14,7 +14,7 @@
 
 .clock{
     grid-column: span 2/ span 2;
-    background: #ddd;
+    background: #e3eef2;
     height: 20rem;
     width: 20rem;
     border: 3px solid black;
@@ -30,7 +30,9 @@
     text-align: center;
     font-size: 20px;
     font-weight: bold;
+    font-style: oblique;
 }
+
 .hand{
     width:50%;
     height:6px;
